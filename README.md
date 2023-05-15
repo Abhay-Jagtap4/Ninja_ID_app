@@ -1,6 +1,6 @@
-# ninja_id
+# Ninja ID Project
 
-A ninja id project.
+A static display page.
 
 ## Getting Started
 
